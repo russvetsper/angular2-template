@@ -1,0 +1,17 @@
+{
+  "name": "angular2-skeleton",
+  "description": "template",
+  "main": "",
+  "authors": [
+    "russ <russvetsper@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
